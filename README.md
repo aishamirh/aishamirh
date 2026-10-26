@@ -4,7 +4,7 @@
 - 🎓 I am currently learning and exploring the tech world.
 - 🔭 I'm focusing on mastering **Git, GitHub, and Software Development**.
 - 💡 Interested in **Web Development / Data Engineering**.
-- 🌱 Currently learning **[e.g., C++ ,Python, HTML/CSS, ]**
+- 🌱 Currently learning **[e.g., C++ ]**
 
 ---
 
