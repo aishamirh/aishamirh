@@ -9,7 +9,7 @@
 ---
 
 ### 📬 Connect with Me
-- 💼 **LinkedIn:** (www.linkedin.com/in/ siti-aishah-amirah)
+- 💼 **LinkedIn:** (www.linkedin.com/in/siti-aishah-amirah/)
 - ✉️ **Email:** sitiaishahamirah@graduate.utm.my
 
 ---
